@@ -19,7 +19,7 @@ File name :
            Data Source: https://www.volza.com/p/paper/import/import-in-canada/
  
 
-## 1 - Import Statements and Libraries: 
+### 1 - Import Statements and Libraries: 
 
              \``` 
                
@@ -28,7 +28,7 @@ import sqlite3
 
           /```
 
-## 2 - Read Data from the "Data Sheet":  This code read de file called "paper_inventory.xlsx" data sheet using Python's Pandas module and stores it in the variable data.
+### 2 - Read Data from the "Data Sheet":  This code read de file called "paper_inventory.xlsx" data sheet using Python's Pandas module and stores it in the variable data.
 
 ``` 
 excel_file = "paper_inventory.xlsx"
@@ -37,7 +37,7 @@ data = pd.read_excel(excel_file, sheet_name)
 
 ```
 
-## 3 - Database implementation - This code generates a cursor for executing SQL queries, establishes a connection to a SQLite database called "output.db", and defines a SQL query to build the table "product_data" with particular column names and let ready to store product-related data.
+### 3 - Database implementation - This code generates a cursor for executing SQL queries, establishes a connection to a SQLite database called "output.db", and defines a SQL query to build the table "product_data" with particular column names and let ready to store product-related data.
 
 
  ``` 
@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS product_data (
 cursor.execute(create_table_query)
 ```
 
-## 4 - Display formatted table from SQLite - The command "tabulate" is used to retrieve shipping data from a SQLite database and show it as a structured table.
+### 4 - Display formatted table from SQLite - The command "tabulate" is used to retrieve shipping data from a SQLite database and show it as a structured table.
 
  
 
