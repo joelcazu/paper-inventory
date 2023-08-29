@@ -1,15 +1,15 @@
-	Paper Inventory - Database Design and Implementation
+# Paper Inventory - Database Design and Implementation
 	
-	Description :
+## Description :
 	
-	***
-	This project requires me to use Python and SQLite to build and run a database that will hold data about paper imports that is taken from an Excel file. I create a table called "product_data" with several fields such as HS Code, Product Description, Shipper and Consignee Names, Standard Quantity, and Country Details using SQL after reading the data using pandas. I use the "tabulate" programme to format and show the data as an orderly table, which improves readability and makes it easier to analyse paper inputs.
+*** This project requires me to use Python and SQLite to build and run a database that will hold data about paper imports that is taken from an Excel file. I create a table called "product_data" with several fields such as HS Code, Product Description, Shipper and Consignee Names, Standard Quantity, and Country Details using SQL after reading the data using pandas. I use the "tabulate" programme to format and show the data as an orderly table, which improves readability and makes it easier to analyse paper inputs.
 	
 	
-	Technologies  and tools used: 
+Technologies  and tools used: 
 	
-	Tools: Python language and SQLite database engine
-	Technologies: pandas, sqlite3 and tabulate library.
+|Python language and SQLite database engine|
+| :------------ |:---------------:|
+|Technologies:| pandas, sqlite3 and tabulate library.|
 	
 
           File name : 
