@@ -95,4 +95,4 @@ table_format = "grid"
 # You can choose other formats like "grid", "plain", "pipe", "html", etc.
 print(tabulate(table_data, headers="keys", tablefmt=table_format))
 ```
-![error]()	
+![error](https://github.com/joelcazu/paper-inventory/blob/223a492b00a96b427968598a2adc3081b7d8c34c/printout_inventory.png)	
