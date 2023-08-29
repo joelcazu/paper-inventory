@@ -16,17 +16,15 @@ File name :
 ``paper_import.ipynb``
 ``paper_inventory.xlsx``
 
-           Data Source: https://www.volza.com/p/paper/import/import-in-canada/
+Data Source: https://www.volza.com/p/paper/import/import-in-canada/
  
 
 ### 1 - Import Statements and Libraries: 
 
-             \``` 
-               
+```
 import pandas as pd
 import sqlite3
-
-          /```
+```
 
 ### 2 - Read Data from the "Data Sheet":  This code read de file called "paper_inventory.xlsx" data sheet using Python's Pandas module and stores it in the variable data.
 
