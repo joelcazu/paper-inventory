@@ -12,9 +12,9 @@ Technologies  and tools used:
 |Technologies:| pandas, sqlite3 and tabulate library.|
 	
 
-          File name : 
-          paper_import.ipynb
-          paper_inventory.xlsx
+File name : 
+``paper_import.ipynb``
+``paper_inventory.xlsx``
 
            Data Source: https://www.volza.com/p/paper/import/import-in-canada/
  
