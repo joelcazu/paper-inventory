@@ -7,8 +7,8 @@
 	
 Technologies  and tools used: 
 	
-|Python language and SQLite database engine|
-| :------------ |:---------------:|
+|Languages :| Python language and SQLite database engine|
+|:------------ |:---------------:|
 |Technologies:| pandas, sqlite3 and tabulate library.|
 	
 
