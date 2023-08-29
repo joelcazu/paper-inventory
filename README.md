@@ -96,5 +96,4 @@ for row in data:
 table_format = "grid"  
 # You can choose other formats like "grid", "plain", "pipe", "html", etc.
 print(tabulate(table_data, headers="keys", tablefmt=table_format))
-
-          /```
+```
