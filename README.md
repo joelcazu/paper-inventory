@@ -1,4 +1,4 @@
-# Paper Inventory - Database Design and Implementation
+## Paper Inventory - Database Design and Implementation
 	
 ## Description :
 	
